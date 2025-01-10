@@ -23,13 +23,13 @@ Pillow : bibliothèque Python pour la manipulation d'images. Installation via :
 Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/votre_nom_utilisateur/StreamRandomPixelRGB.git
+git clone https://github.com/votre_nom_utilisateur/RandomDigits-Stream.git
 ```
 
 Exécutez le script en ligne de commande en spécifiant le nombre de caractères à afficher :
 
 ```bash
-python script.py <nombre_de_caracteres>
+RandomDigits-Stream.py <nombre_de_caracteres>
 ```
 
 Par défaut, l'image capturée sera enregistrée dans le dossier défini dans la variable output_folder. Vous pouvez modifier cette variable directement dans le script.
